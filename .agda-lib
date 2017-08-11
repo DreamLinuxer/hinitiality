@@ -1,0 +1,6 @@
+name: hinitiality
+depend:
+  standard-library
+include:
+  .
+  HoTT/

@@ -1,0 +1,3 @@
+[submodule "HoTT"]
+	path = HoTT
+	url = git@github.com:DreamLinuxer/HoTT.git
